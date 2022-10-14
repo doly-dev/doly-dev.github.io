@@ -37,8 +37,6 @@
 - [antd-more](https://doly-dev.github.io/antd-more/latest/index.html) - 基于 antd 扩展的业务场景组件
 - [high-ui](https://doly-dev.github.io/high-ui/latest/index.html) - 一些特殊场景的组件。👨🏻‍💻 研究和施工中（有可能鸽，事杂且多）...
 
-### developing
-
 ### 归档
 
 > 目前已停止维护
