@@ -6,9 +6,9 @@
 
 ### favicon.ico
 
-[https://doly-dev.github.io/favicon.ico](https://doly-dev.github.io/favicon.ico)
+[https://doly-dev.github.io/favicon.png](https://doly-dev.github.io/favicon.png)
 
-![favorite.ico](favicon.ico)
+![favorite.png](favicon.png)
 
 ### logo
 
