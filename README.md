@@ -1,20 +1,13 @@
 # doly-dev.github.io
 
-[doly-dev github](https://github.com/doly-dev)
+[doly-dev github 链接](https://github.com/doly-dev)
 
 ## Static
 
-### favicon.ico
-
-[https://doly-dev.github.io/favicon.png](https://doly-dev.github.io/favicon.png)
-
-![favorite.png](favicon.png)
-
-### logo
-
-[https://doly-dev.github.io/logo.png](https://doly-dev.github.io/logo.png)
-
-![logo.png](logo.png)
+| 名称 | 地址 | 示例 |
+| --- | --- | --- |
+| favicon | [https://doly-dev.github.io/favicon.png](https://doly-dev.github.io/favicon.png) | ![favorite.png](favicon.png) |
+| logo | [https://doly-dev.github.io/logo.png](https://doly-dev.github.io/logo.png) | ![logo.png](logo.png) |
 
 ## Project
 
