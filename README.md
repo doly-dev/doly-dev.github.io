@@ -13,22 +13,22 @@
 
 ### 脚手架
 
-- [cra-template-doly](https://doly-dev.github.io/cra-template-doly-site/latest/index.html) - 基于 Create React App + craco 扩展的脚手架，快速构建 React 单页应用
+- [cra-template-doly](https://doly-dev.github.io/cra-template-doly-site/latest/) - 基于 Create React App + craco 扩展的脚手架，快速构建 React 单页应用
 
 ### 工具库
 
 - [util-helpers](https://doly-dev.github.io/util-helpers/index.html) - 基于业务场景的工具方法库
-- [rc-hooks](https://doly-dev.github.io/rc-hooks/latest/index.html) - React Hooks Library
+- [rc-hooks](https://doly-dev.github.io/rc-hooks/latest/) - React Hooks Library
 
 ### 图标库
 
-- [doly-icons](https://doly-dev.github.io/doly-icons/latest/index.html) - 基于 Bootstrap Icons 的 React 图标组件
+- [doly-icons](https://doly-dev.github.io/doly-icons/latest/) - 基于 Bootstrap Icons 的 React 图标组件
 
 ### 组件库
 
 - [antd-more](https://doly-dev.github.io/antd-more/latest/) - 基于 antd 扩展的业务场景组件
-- [mobile-more](https://doly-dev.github.io/mobile-more/latest/index.html) - 基于 antd-mobile v5 扩展移动端 UI 组件
-- [high-ui](https://doly-dev.github.io/high-ui/latest/index.html) - 一些特殊场景的组件。👨🏻‍💻 研究和施工中（有可能鸽，事杂且多）...
+- [mobile-more](https://doly-dev.github.io/mobile-more/latest/) - 基于 antd-mobile v5 扩展移动端 UI 组件
+- [high-ui](https://doly-dev.github.io/high-ui/latest/) - 一些特殊场景的组件。👨🏻‍💻 研究和施工中（有可能鸽，事杂且多）...
 
 ### 归档
 
