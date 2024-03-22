@@ -28,7 +28,7 @@
 
 - [antd-more](https://doly-dev.github.io/antd-more/latest/) - 基于 antd 扩展的业务场景组件
 - [mobile-more](https://doly-dev.github.io/mobile-more/latest/) - 基于 antd-mobile v5 扩展移动端 UI 组件
-- [high-ui](https://doly-dev.github.io/high-ui/latest/) - 一些特殊场景的组件。👨🏻‍💻 研究和施工中（有可能鸽，事杂且多）...
+- [high-ui](https://high-ui.vercel.app/v0) - 一些特殊场景的组件。👨🏻‍💻 研究和施工中（有可能鸽，事杂且多）...
 
 ### 归档
 
