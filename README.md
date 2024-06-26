@@ -2,17 +2,11 @@
 
 [doly-dev github 链接](https://github.com/doly-dev)
 
-## Static
-
-| 名称 | 地址 | 示例 |
-| --- | --- | --- |
-| favicon | [https://doly-dev.github.io/favicon.png](https://doly-dev.github.io/favicon.png) | ![favorite.png](favicon.png) |
-| logo | [https://doly-dev.github.io/logo.png](https://doly-dev.github.io/logo.png) | ![logo.png](logo.png) |
-
 ## Project
 
 ### 脚手架
 
+- [vite-template-doly](https://github.com/doly-dev/vite-template-doly) - 基于 create-vite/template-react-ts 扩展的脚手架
 - [cra-template-doly](https://doly-dev.github.io/cra-template-doly-site/latest/) - 基于 Create React App + craco 扩展的脚手架，快速构建 React 单页应用
 
 ### 工具库
@@ -41,3 +35,16 @@
 - [doly-admin-template](https://github.com/doly-dev/doly-admin-template) - 后台管理项目脚手架
 - [prettier-config-doly](https://github.com/doly-dev/prettier-config-doly) - doly 项目代码格式美化配置
 - [eslint-config-doly](https://github.com/doly-dev/eslint-config-doly) - doly 项目代码语法检查和修复配置
+
+## Static
+
+| 名称 | 地址 | 示例 |
+| --- | --- | --- |
+| favicon.ico | [https://doly-dev.github.io/favicon.ico](https://doly-dev.github.io/favicon.ico) | ![favorite.ico](favicon.ico) |
+| favicon.png | [https://doly-dev.github.io/favicon.png](https://doly-dev.github.io/favicon.png) | ![favorite.png](favicon.png) |
+| logo.svg | [https://doly-dev.github.io/logo.svg](https://doly-dev.github.io/logo.svg) | ![logo.svg](logo.svg) |
+| logo.png | [https://doly-dev.github.io/logo.png](https://doly-dev.github.io/logo.png) | ![logo.png](logo.png) |
+| logo@2x\.png | [https://doly-dev.github.io/logo@2x.png](https://doly-dev.github.io/logo@2x.png) | ![logo@2x.png](logo@2x.png) |
+| logo@3x\.png | [https://doly-dev.github.io/logo@3x.png](https://doly-dev.github.io/logo@3x.png) | ![logo@3x.png](logo@3x.png) |
+| touch-icon_192x192.png | [https://doly-dev.github.io/touch-icon_192x192.png](https://doly-dev.github.io/touch-icon_192x192.png) | ![touch-icon_192x192.png](touch-icon_192x192.png) |
+| touch-icon_512x512.png | [https://doly-dev.github.io/touch-icon_512x512.png](https://doly-dev.github.io/touch-icon_512x512.png) | ![touch-icon_512x512.png](touch-icon_512x512.png) |
