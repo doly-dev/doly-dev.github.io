@@ -1,6 +1,6 @@
 # doly-dev.github.io
 
-[doly-dev github 链接](https://github.com/doly-dev)
+[![GitHub Follwers](https://img.shields.io/github/followers/doly-dev)](https://github.com/doly-dev)
 
 ## Project
 
