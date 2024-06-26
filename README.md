@@ -6,8 +6,10 @@
 
 ### 脚手架
 
+#### React 单页应用脚手架
+
 - [vite-template-doly](https://github.com/doly-dev/vite-template-doly) - 基于 create-vite/template-react-ts 扩展的脚手架
-- [cra-template-doly](https://doly-dev.github.io/cra-template-doly-site/latest/) - 基于 Create React App + craco 扩展的脚手架，快速构建 React 单页应用
+- [cra-template-doly](https://doly-dev.github.io/cra-template-doly-site/latest/) - 基于 Create React App + craco 扩展的脚手架
 
 ### 工具库
 
