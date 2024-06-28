@@ -42,11 +42,11 @@
 
 | 名称 | 地址 | 示例 |
 | --- | --- | --- |
-| favicon.ico | [https://doly-dev.github.io/favicon.ico](https://doly-dev.github.io/favicon.ico) | ![favorite.ico](favicon.ico) |
-| favicon.png | [https://doly-dev.github.io/favicon.png](https://doly-dev.github.io/favicon.png) | ![favorite.png](favicon.png) |
-| logo.svg | [https://doly-dev.github.io/logo.svg](https://doly-dev.github.io/logo.svg) | ![logo.svg](logo.svg) |
-| logo.png | [https://doly-dev.github.io/logo.png](https://doly-dev.github.io/logo.png) | ![logo.png](logo.png) |
-| logo@2x\.png | [https://doly-dev.github.io/logo@2x.png](https://doly-dev.github.io/logo@2x.png) | ![logo@2x.png](logo@2x.png) |
-| logo@3x\.png | [https://doly-dev.github.io/logo@3x.png](https://doly-dev.github.io/logo@3x.png) | ![logo@3x.png](logo@3x.png) |
-| touch-icon_192x192.png | [https://doly-dev.github.io/touch-icon_192x192.png](https://doly-dev.github.io/touch-icon_192x192.png) | ![touch-icon_192x192.png](touch-icon_192x192.png) |
-| touch-icon_512x512.png | [https://doly-dev.github.io/touch-icon_512x512.png](https://doly-dev.github.io/touch-icon_512x512.png) | ![touch-icon_512x512.png](touch-icon_512x512.png) |
+| favicon.ico | <https://doly-dev.github.io/favicon.ico> | ![favorite.ico](favicon.ico) |
+| favicon.png | <https://doly-dev.github.io/favicon.png> | ![favorite.png](favicon.png) |
+| logo.svg | <https://doly-dev.github.io/logo.svg> | ![logo.svg](logo.svg) |
+| logo.png | <https://doly-dev.github.io/logo.png> | ![logo.png](logo.png) |
+| logo@2x\.png | <https://doly-dev.github.io/logo@2x.png> | ![logo@2x.png](logo@2x.png) |
+| logo@3x\.png | <https://doly-dev.github.io/logo@3x.png> | ![logo@3x.png](logo@3x.png) |
+| touch-icon_192x192.png | <https://doly-dev.github.io/touch-icon_192x192.png> | ![touch-icon_192x192.png](touch-icon_192x192.png) |
+| touch-icon_512x512.png | <https://doly-dev.github.io/touch-icon_512x512.png> | ![touch-icon_512x512.png](touch-icon_512x512.png) |
